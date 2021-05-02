@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on front-end web developer team.
 - 📫 How to reach me: ru.kongpop@hotmail.com
 - Inline-style: 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_CPhcKsCFD3uoZKmzkRIvJVHj76YYNeCrSGQvfCLGf-S87oQuYb6Jo5w2Im3bxu_h5kQ&usqp=CAU "Logo Title Text 1")
+![alt text](https://drive.google.com/file/d/0B_OpP4nESefeNEM2bkFXSkZZNmc/view?usp=sharing "Logo Title Text 1")
 <!--
 **kongpop1235/kongpop1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
