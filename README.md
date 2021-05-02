@@ -4,7 +4,7 @@
 - 📫 How to reach me: ru.kongpop@hotmail.com
  
 ![alt text](https://camo.githubusercontent.com/92acee6631856371ba17a0dbb1b044948dab754954db0ca32a34b83ebd254392/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532336533346632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465 "Logo Title Text 1")
-![alt text](https://camo.githubusercontent.com/92acee6631856371ba17a0dbb1b044948dab754954db0ca32a34b83ebd254392/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532336533346632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465 "Logo Title Text 1")
+![alt text](https://scontent.fbkk22-4.fna.fbcdn.net/v/t1.6435-9/181574740_10158953362019627_6963386273862897696_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeHMOg-Si4tm1TzaUui8JDHmViFxvoI-0YxWIXG-gj7RjKHQTvXO4vc0tuNk7AIMjpL8ue79gsSzUg9cOdUND3BB&_nc_ohc=L-KldUba03sAX903wIv&_nc_ht=scontent.fbkk22-4.fna&oh=dfe6d5003836de629a3701f19c9e0d07&oe=60B20BE1 "Logo Title Text 1")
 <!--
 **kongpop1235/kongpop1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
