@@ -1,6 +1,5 @@
 <h1 align='center'> Hi there 👋, I'm Kongpop </h1>
-- 🌱 I’m currently learning AdobeXD and Wordpress.<br>
-- 👯 I’m looking to collaborate on front-end web developer team.<br>
+- :eyes: I’m looking to collaborate on front-end web developer team.<br>
 - 📫 How to reach me: ru.kongpop@hotmail.com
 
 
@@ -16,6 +15,9 @@
 <br>
 ## :mortar_board: I’m currently learning: <br>
 ![alt text](https://i.ibb.co/PW6JWY7/Adobe-XD.png "AdobeXD icon")
+<br>
+#### :video_game: My Steame :
+
 <!--
 **kongpop1235/kongpop1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
