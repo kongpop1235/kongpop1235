@@ -1,8 +1,9 @@
 # Hi there 👋
 - 🌱 I’m currently learning AdobeXD and Wordpress.
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 ... 👯 I’m looking to collaborate on front-end web developer team.
 - 📫 How to reach me: ru.kongpop@hotmail.com 
+
+⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 <!--
 **kongpop1235/kongpop1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
