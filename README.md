@@ -19,6 +19,7 @@
 <hr>
 :video_game: My Steame : 
 <a href="https://steamcommunity.com/id/Chicken8e88/">Chicken8e88</a>
+<br>
 :headphones: My Favorite Music :
 <a href="https://open.spotify.com/track/41MWlQgZ30zXjOUoyjot60?si=ojp6QGFSTTyzSr7JoLVKAg">:musical_note:Not Alone:musical_note:</a>
 
