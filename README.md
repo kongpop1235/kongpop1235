@@ -4,6 +4,7 @@
 - 📫 How to reach me: ru.kongpop@hotmail.com
  
 ![alt text](https://camo.githubusercontent.com/92acee6631856371ba17a0dbb1b044948dab754954db0ca32a34b83ebd254392/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532336533346632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465 "Logo Title Text 1")
+![alt text](https://previews.dropbox.com/p/thumb/ABKjP6c11cG3ogSacBQpPsnpwCgzST0RlApXQJg_ffs5x_xxIln05edeQazkHkdJdKc3vgMnVmYq2mpNM6TD8ETg9a2HQXsN9yIyssfoCU8mjjju3AR8BAWrenZpqNY2hhN6qI9nnNdTRkMtHHyRv_0oKpCuA9ArnQ0Y9giP1zGMgOjxGxxga9xQ28WOE-yxUvesA67laj41Tie134kk-q24egA5arWlL5ZG_wKzPyhNOGiuQSpDLFJ_kP15NNAj_EfdWTKigNcQgpEQBwYnL5t6icaoDBquVm6mFQdxHCcTijkH2xhaQK8m4IaZWA5msLDug_1BzyN6awD_zXRro5yr0oyu2JJ0o1heAmJOoC3OXL9Fgf4-PgGgiXnGz5cihdw/p.png?fv_content=true&size_mode=5 "Logo Title Text 1")
 
 <!--
 **kongpop1235/kongpop1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
