@@ -1,6 +1,6 @@
 # Hi there 👋
 - 🌱 I’m currently learning AdobeXD and Wordpress
-👯 I’m looking to collaborate on front-end web developer team
+- 👯 I’m looking to collaborate on front-end web developer team
 - 📫 How to reach me: ru.kongpop@hotmail.com
 <!--
 **kongpop1235/kongpop1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
