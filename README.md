@@ -17,8 +17,7 @@
 ![alt text](https://i.ibb.co/PW6JWY7/Adobe-XD.png "AdobeXD icon")
 <br>
 <hr>
-#### :video_game: My Steame : <br>
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+#### :video_game: My Steame [Chicker](https://steamcommunity.com/id/Chicken8e88/ "Google's Homepage")
 
 <!--
 **kongpop1235/kongpop1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
