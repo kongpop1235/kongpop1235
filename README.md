@@ -1,5 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Stefany  👩‍💻 </h1>
-# Hi there 👋
+<h1 align='center'> Hi there 👋, I'm Kongpop </h1>
 - 🌱 I’m currently learning AdobeXD and Wordpress.
 - 👯 I’m looking to collaborate on front-end web developer team.
 - 📫 How to reach me: ru.kongpop@hotmail.com
