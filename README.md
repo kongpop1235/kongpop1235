@@ -5,7 +5,8 @@
 
 
 ## :computer: My codeing skill :<br>
-![alt text](https://i.ibb.co/1vXQ8DF/html5.png "Logo Title Text 1")
+![alt text](https://i.ibb.co/1vXQ8DF/html5.png "HTML icon")
+![alt text](https://i.ibb.co/FbgKSwy/CSS3.png "CSS icon")
 
 
 <!--
