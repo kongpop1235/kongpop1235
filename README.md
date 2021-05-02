@@ -7,7 +7,7 @@
 ## :computer: My codeing skill :<br>
 ![alt text](https://i.ibb.co/1vXQ8DF/html5.png "HTML icon")
 ![alt text](https://i.ibb.co/FbgKSwy/CSS3.png "CSS icon")
-
+![alt text](https://i.ibb.co/wCvwx3T/javascript.png "JavaScript icon")
 
 <!--
 **kongpop1235/kongpop1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
