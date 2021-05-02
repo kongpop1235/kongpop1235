@@ -4,11 +4,18 @@
 - 📫 How to reach me: ru.kongpop@hotmail.com
 
 
-## :computer: My codeing skill :<br>
+## :floppy_disk: My codeing skill :<br>
 ![alt text](https://i.ibb.co/1vXQ8DF/html5.png "HTML icon")
 ![alt text](https://i.ibb.co/FbgKSwy/CSS3.png "CSS icon")
 ![alt text](https://i.ibb.co/wCvwx3T/javascript.png "JavaScript icon")
-
+![alt text](https://i.ibb.co/KmZz2BB/bootstrap.png "Bootstrap icon")
+<br>
+## :computer: My codeing skill :<br>
+![alt text](https://i.ibb.co/BZWFw6Y/Visual-Studio.png "VisualStudio icon")
+![alt text](https://i.ibb.co/qrc97s7/Illustrator.png "Illustartor icon")
+<br>
+## :mortar_board: I’m currently learning: <br>
+![alt text](https://i.ibb.co/PW6JWY7/Adobe-XD.png "AdobeXD icon")
 <!--
 **kongpop1235/kongpop1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
