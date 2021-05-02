@@ -4,8 +4,8 @@
 - 📫 How to reach me: ru.kongpop@hotmail.com
 
 
-
-![alt text](https://i.ibb.co/1vXQ8DF/html5.png "Logo Title Text 1")
+- :computer: My codeing skill
+- ![alt text](https://i.ibb.co/1vXQ8DF/html5.png "Logo Title Text 1")
 
 
 <!--
