@@ -9,6 +9,7 @@
 ![alt text](https://i.ibb.co/FbgKSwy/CSS3.png "CSS icon")
 ![alt text](https://i.ibb.co/wCvwx3T/javascript.png "JavaScript icon")
 ![alt text](https://i.ibb.co/KmZz2BB/bootstrap.png "Bootstrap icon")
+![alt text](https://i.ibb.co/PW6JWY7/Adobe-XD.png "Bootstrap icon")
 <br>
 ## :computer: My Software skill :<br>
 ![alt text](https://i.ibb.co/BZWFw6Y/Visual-Studio.png "VisualStudio icon")
