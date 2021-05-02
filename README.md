@@ -18,7 +18,7 @@
 <br>
 <hr>
 :video_game: My Steame : 
-<a herf="https://steamcommunity.com/id/Chicken8e88/">Chicken8e88</a>
+<a href="https://steamcommunity.com/id/Chicken8e88/">Chicken8e88</a>
 
 
 
