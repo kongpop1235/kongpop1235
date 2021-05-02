@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🌱 I’m currently learning JAVAScript AdobeXD Wordpress...
+- 🌱 I’m currently learning JAVAScript AdobeXD Wordpress.
 ...👯 I’m looking to collaborate on front-end web developer team.
 - 📫 How to reach me: ru.kongpop@hotmail.com 
 <!--
