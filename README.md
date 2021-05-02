@@ -16,6 +16,7 @@
 ## :mortar_board: I’m currently learning: <br>
 ![alt text](https://i.ibb.co/PW6JWY7/Adobe-XD.png "AdobeXD icon")
 <br>
+<hr>
 #### :video_game: My Steame :
 
 <!--
