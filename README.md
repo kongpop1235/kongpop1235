@@ -1,5 +1,6 @@
-<h1 align='center'> Hi there 👋, I'm Kongpop </h1>
+<h1 align='center'> Hi 👋, My name is Kongpop. I'm font-end web developer</h1>
 - :eyes: I’m looking to collaborate on front-end web developer team.<br>
+- :dart: My Target: Front-end developer >> back-end developer >> full stack developer
 - 📫 How to reach me: ru.kongpop@hotmail.com
 
 
