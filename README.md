@@ -18,6 +18,8 @@
 <br>
 ## :mortar_board: I’m currently learning: <br>
 ![alt text](https://i.ibb.co/PW6JWY7/Adobe-XD.png "AdobeXD icon")
+![alt text](https://i.ibb.co/nDkZw0b/jQuery.png "jQuery icon")
+![alt text](https://i.ibb.co/W21swKD/Vue-js.png "Vue.js icon")
 ![alt text](https://i.ibb.co/nD1ykWH/React.png "React icon")
 <br>
 <hr>
