@@ -1,7 +1,10 @@
-<h1 align='center'> Hi 👋, My name is Kongpop.<br>I'm font-end web developer</h1>
+<h1 align='center'> Hi 👋, My name is Kongpop.</h1>
 - :eyes: I’m looking to collaborate on front-end web developer team.<br>
 - :dart: My Target: Front-end developer >> back-end developer >> full stack developer <br>
 - 📫 How to reach me: ru.kongpop@hotmail.com
+- <p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=kongpop1235"></a>
+</p>
 
 
 ## :floppy_disk: My Codeing skill :<br>
