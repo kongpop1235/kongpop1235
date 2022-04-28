@@ -28,6 +28,9 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongpop1235&show_icons=true&locale=en&layout=compact" alt="ezra31448" /></p>
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongpop1235&show_icons=true&locale=en&layout=compact" alt="ezra31448" /></p>
+<br>
+
 <hr>
 :video_game: My Steame : 
 <a href="https://steamcommunity.com/id/Chicken8e88/">Chicken8e88</a>
