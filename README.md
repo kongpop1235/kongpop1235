@@ -26,7 +26,8 @@
 ![alt text](https://i.ibb.co/pxmqjct/sass.png "sass icon")
 ![alt text](https://i.ibb.co/jM3tJqr/php.png "PHP icon")
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongpop1235&show_icons=true&locale=en&layout=compact" alt="ezra31448" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongpop1235&show_icons=true&theme=merko&locale=en&layout=compact" alt="kongpop1235" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kongpop1235&show_icons=true&theme=merko" alt="kongpop1235" /></p>
 <hr>
 :video_game: My Steame : 
 <a href="https://steamcommunity.com/id/Chicken8e88/">Chicken8e88</a>
