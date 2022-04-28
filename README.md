@@ -26,10 +26,6 @@
 ![alt text](https://i.ibb.co/pxmqjct/sass.png "sass icon")
 ![alt text](https://i.ibb.co/jM3tJqr/php.png "PHP icon")
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongpop1235&show_icons=true&locale=en&layout=compact" alt="ezra31448" /></p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongpop1235&show_icons=true&locale=en&layout=compact" alt="ezra31448" /></p>
-<br>
 
 <hr>
 :video_game: My Steame : 
