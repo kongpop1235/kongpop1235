@@ -14,14 +14,14 @@
 ![alt text](https://i.ibb.co/FbgKSwy/CSS3.png "CSS icon")
 ![alt text](https://i.ibb.co/wCvwx3T/javascript.png "JavaScript icon")
 ![alt text](https://i.ibb.co/KmZz2BB/bootstrap.png "Bootstrap icon")
+![alt text](https://i.ibb.co/W21swKD/Vue-js.png "Vue.js icon")
+![alt text](https://i.ibb.co/nD1ykWH/React.png "React icon")
+![alt text](https://i.ibb.co/nDkZw0b/jQuery.png "jQuery icon")
 <br>
 ## :computer: My Software skill :<br>
 ![alt text](https://i.ibb.co/qrc97s7/Illustrator.png "Illustartor icon")
 <br>
 ## :mortar_board: I’m currently learning: <br>
-![alt text](https://i.ibb.co/W21swKD/Vue-js.png "Vue.js icon")
-![alt text](https://i.ibb.co/nD1ykWH/React.png "React icon")
-![alt text](https://i.ibb.co/nDkZw0b/jQuery.png "jQuery icon")
 ![alt text](https://i.ibb.co/PW6JWY7/Adobe-XD.png "AdobeXD icon")
 ![alt text](https://i.ibb.co/pxmqjct/sass.png "sass icon")
 ![alt text](https://i.ibb.co/jM3tJqr/php.png "PHP icon")
