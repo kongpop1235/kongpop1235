@@ -26,9 +26,11 @@
 ![alt text](https://i.ibb.co/pxmqjct/sass.png "sass icon")
 ![alt text](https://i.ibb.co/jM3tJqr/php.png "PHP icon")
 <br>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongpop1235&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="kongpop1235" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kongpop1235&show_icons=true&theme=gruvbox" alt="kongpop1235" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongpop1235&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="kongpop1235" /></p>
+</div>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kongpop1235&show_icons=true&theme=gruvbox" alt="kongpop1235" /></p>
 </div>
 <!--
 <br>
