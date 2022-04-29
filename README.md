@@ -26,12 +26,30 @@
 ![alt text](https://i.ibb.co/pxmqjct/sass.png "sass icon")
 ![alt text](https://i.ibb.co/jM3tJqr/php.png "PHP icon")
 <br>
+<br>
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongpop1235&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="kongpop1235" /></p>
 </div>
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kongpop1235&show_icons=true&theme=gruvbox" alt="kongpop1235" /></p>
 </div>
+
+## Connect with me  
+<div align="center">
+  <a href="https://github.com/Pudis-Slypless" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/saming-p" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+   <a href="https://www.facebook.com/Saming.Pudis" target="_blank">
+    <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://dev.to/slyplesspudis" target="_blank">
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  </a>  
+</div> 
+
 <!--
 <br>
 <hr>
