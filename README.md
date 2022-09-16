@@ -2,7 +2,7 @@
   <br>
    <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=kongpop1235"></a>
 </h1>
-- :eyes: I’m looking to collaborate on front-end web developer team.<br>
+<!-- - :eyes: I’m looking to collaborate on front-end web developer team.<br> -->
 - :dart: My Target: Front-end developer >> back-end developer >> full stack developer <br>
 - 📫 How to reach me: ru.kongpop@hotmail.com
 - <p align='center'>
